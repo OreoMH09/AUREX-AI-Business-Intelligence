@@ -1,0 +1,3 @@
+"""
+AUREX API Routes
+"""
